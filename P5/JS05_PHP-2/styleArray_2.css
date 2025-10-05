@@ -1,0 +1,27 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 40px;
+    padding: 0;
+    background-color: #e9ecef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.data-card {
+    width: 350px;
+    padding: 0; 
+    border: 1px solid #cce5ff;
+    border-radius: 10px; 
+    background-color: #ffffff; 
+}
+
+.card-title {
+    background-color: #1600b9;
+    color: #ffffff; 
+    padding: 15px 20px;
+    margin: 0; 
+    text-align: center;
+    border-bottom: 3px solid #000000;
+}
